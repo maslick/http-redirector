@@ -1,7 +1,7 @@
 Description: Cloudfront distribution for custom origin
 Parameters:
   Alias:
-    Description: DNS name of your origin
+    Description: Custom DNS name of your Cloufront distribution
     Type: String
     Default: "api.maslick.ru"
   Certificate:
